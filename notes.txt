@@ -25,3 +25,7 @@ git status
 
 .gitignore
 	Tells git that it should completely ignore a certain file	
+
+git add [file]
+	Tells git to start tracking specific files or folders
+
