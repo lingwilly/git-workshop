@@ -57,3 +57,6 @@ git checkout 20939932
 
 git checkout Master
 	go to latest commit
+
+git revert 20039932
+	reverting a commit
