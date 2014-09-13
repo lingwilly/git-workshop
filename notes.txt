@@ -48,3 +48,6 @@ git diff
 
 git add -p
 	Lets us selectively stage changes
+
+git reset --hard
+	Extracts file from repository and replace in working directory
