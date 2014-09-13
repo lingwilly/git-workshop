@@ -22,6 +22,8 @@ git init
 
 git status
 	Tells us which files are untrackeds
+	Compares the difference between working dir and staging area
+	Also compares difference between staging area and repository
 
 .gitignore
 	Tells git that it should completely ignore a certain file	
