@@ -70,3 +70,5 @@ git branch <branch name>
 git checkout <branch name>
 	go to a new branch
 
+git merge <branch>
+	merge changes on <branch> into current branch
