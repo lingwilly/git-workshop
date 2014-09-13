@@ -51,9 +51,3 @@ git add -p
 
 git reset --hard
 	Extracts file from repository and replace in working directory
-
-git checkout 20939932
-	go back to a point in time
-
-git checkout Master
-	go to latest commit
