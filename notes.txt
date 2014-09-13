@@ -29,3 +29,10 @@ git status
 git add [file]
 	Tells git to start tracking specific files or folders
 
+git commit
+	Commits changes to the repository
+
+git log
+	Shows us all the commits that were made
+
+
