@@ -38,4 +38,10 @@ git log
 	Shows us all the commits that were made
 
 git log --oneline
-	SHows us all the commits that weere made in one line
+	Shows us all the commits that were made in one line
+
+git diff <old> <new>
+	Shows us what has changed betwen any 2 commits
+
+git diff
+	Shows us what has changed between our working directory and staging area
