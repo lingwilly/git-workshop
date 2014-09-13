@@ -60,3 +60,13 @@ git checkout Master
 
 git revert 20039932
 	reverting a commit
+
+git branch
+	gives a list of all branches in the repository
+
+git branch <branch name>
+	create a new branch
+
+git checkout <branch name>
+	go to a new branch
+
