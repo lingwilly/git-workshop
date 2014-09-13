@@ -86,4 +86,7 @@ git push -u origin master
 
 =============================================================
 git remote add origin https://github.com/lingwilly/git-workshop.git
+	adds a git remote with the name origin
+	
 git push -u origin master
+	push to repository
