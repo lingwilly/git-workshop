@@ -1,4 +1,4 @@
-ï»¿TERMINAL STUFF
+TERMINAL STUFF
 --------------
 pwd
     lists present directory
@@ -73,7 +73,7 @@ git checkout <branch name>
 git merge <branch>
 	merge changes on <branch> into current branch
 
-â€¦or create a new repository on the command line
+…or create a new repository on the command line
 
 =============================================================
 touch README.md
@@ -82,7 +82,7 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/lingwilly/git-workshop.git
 git push -u origin master
-â€¦or push an existing repository from the command line
+…or push an existing repository from the command line
 
 =============================================================
 git remote add origin https://github.com/lingwilly/git-workshop.git
@@ -91,4 +91,4 @@ git remote add origin https://github.com/lingwilly/git-workshop.git
 git push -u origin master
 	push to repository
 
-test
+testRepository add
