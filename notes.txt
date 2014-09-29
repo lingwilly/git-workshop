@@ -1,4 +1,4 @@
-TERMINAL STUFF
+﻿TERMINAL STUFF
 --------------
 pwd
     lists present directory
