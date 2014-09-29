@@ -92,3 +92,4 @@ git push -u origin master
 	push to repository
 
 testRepository add
+testRepostiroy testdiff
